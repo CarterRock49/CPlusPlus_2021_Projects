@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "Cooper",
+    "Breed": "Bulldog",
+    "Age": 6,
+    "Wheight": 43.5
+  },
+  {
+    "Name": "Charlie",
+    "Breed": "German Sheperd",
+    "Age": 5,
+    "Wheight": 66.32
+  },
+  {
+    "Name": "Teddy",
+    "Breed": "Beagle",
+    "Age": 4,
+    "Wheight": 20
+  }
+]

@@ -1,0 +1,302 @@
+[
+    {
+      "RANK": 1,
+      "NAME": "Bitcoin",
+      "SYMBOL": "BTC",
+      "MARKET_CAP": 941293987905
+    },
+    {
+      "RANK": 2,
+      "NAME": "Ethereum",
+      "SYMBOL": "ETH",
+      "MARKET_CAP": 480499261456
+    },
+    {
+      "RANK": 3,
+      "NAME": "Binance Coin",
+      "SYMBOL": "BNB",
+      "MARKET_CAP": 90321378765
+    },
+    {
+      "RANK": 4,
+      "NAME": "Tether",
+      "SYMBOL": "USDT",
+      "MARKET_CAP": 77995414354
+    },
+    {
+      "RANK": 5,
+      "NAME": "Solana",
+      "SYMBOL": "SOL",
+      "MARKET_CAP": 60714624681
+    },
+    {
+      "RANK": 6,
+      "NAME": "Cardano",
+      "SYMBOL": "ADA",
+      "MARKET_CAP": 47874422394
+    },
+    {
+      "RANK": 7,
+      "NAME": "XRP",
+      "SYMBOL": "XRP",
+      "MARKET_CAP": 43429092054
+    },
+    {
+      "RANK": 8,
+      "NAME": "USD Coin",
+      "SYMBOL": "USDC",
+      "MARKET_CAP": 42413911050
+    },
+    {
+      "RANK": 9,
+      "NAME": "Terra",
+      "SYMBOL": "LUNA",
+      "MARKET_CAP": 36161644767
+    },
+    {
+      "RANK": 10,
+      "NAME": "Polkadot",
+      "SYMBOL": "DOT",
+      "MARKET_CAP": 28996868267
+    },
+    {
+      "RANK": 11,
+      "NAME": "Avalanche",
+      "SYMBOL": "AVAX",
+      "MARKET_CAP": 27391380220
+    },
+    {
+      "RANK": 12,
+      "NAME": "Dogecoin",
+      "SYMBOL": "DOGE",
+      "MARKET_CAP": 24911176821
+    },
+    {
+      "RANK": 13,
+      "NAME": "SHIBA INU",
+      "SYMBOL": "SHIB",
+      "MARKET_CAP": 20629267609
+    },
+    {
+      "RANK": 14,
+      "NAME": "Polygon",
+      "SYMBOL": "MATIC",
+      "MARKET_CAP": 20038843713
+    },
+    {
+      "RANK": 15,
+      "NAME": "Crypto.com Coin",
+      "SYMBOL": "CRO",
+      "MARKET_CAP": 15595499401
+    },
+    {
+      "RANK": 16,
+      "NAME": "Binance USD",
+      "SYMBOL": "BUSD",
+      "MARKET_CAP": 14623357601
+    },
+    {
+      "RANK": 17,
+      "NAME": "Wrapped Bitcoin",
+      "SYMBOL": "WBTC",
+      "MARKET_CAP": 12978947639
+    },
+    {
+      "RANK": 18,
+      "NAME": "Uniswap",
+      "SYMBOL": "UNI",
+      "MARKET_CAP": 10773625619
+    },
+    {
+      "RANK": 19,
+      "NAME": "Litecoin",
+      "SYMBOL": "LTC",
+      "MARKET_CAP": 10680105960
+    },
+    {
+      "RANK": 20,
+      "NAME": "Chainlink",
+      "SYMBOL": "LINK",
+      "MARKET_CAP": 10387959059
+    },
+    {
+      "RANK": 21,
+      "NAME": "Algorand",
+      "SYMBOL": "ALGO",
+      "MARKET_CAP": 10198650050
+    },
+    {
+      "RANK": 22,
+      "NAME": "TerraUSD",
+      "SYMBOL": "UST",
+      "MARKET_CAP": 9936088326
+    },
+    {
+      "RANK": 23,
+      "NAME": "Dai",
+      "SYMBOL": "DAI",
+      "MARKET_CAP": 9355729313
+    },
+    {
+      "RANK": 24,
+      "NAME": "NEAR Protocol",
+      "SYMBOL": "NEAR",
+      "MARKET_CAP": 9224775815
+    },
+    {
+      "RANK": 25,
+      "NAME": "Bitcoin Cash",
+      "SYMBOL": "BCH",
+      "MARKET_CAP": 8510108291
+    },
+    {
+      "RANK": 26,
+      "NAME": "TRON",
+      "SYMBOL": "TRX",
+      "MARKET_CAP": 8183610666
+    },
+    {
+      "RANK": 27,
+      "NAME": "Stellar",
+      "SYMBOL": "XLM",
+      "MARKET_CAP": 7060195140
+    },
+    {
+      "RANK": 28,
+      "NAME": "Cosmos",
+      "SYMBOL": "ATOM",
+      "MARKET_CAP": 7059190458
+    },
+    {
+      "RANK": 29,
+      "NAME": "Decentraland",
+      "SYMBOL": "MANA",
+      "MARKET_CAP": 6734961717
+    },
+    {
+      "RANK": 30,
+      "NAME": "Axie Infinity",
+      "SYMBOL": "AXS",
+      "MARKET_CAP": 6479379022
+    },
+    {
+      "RANK": 31,
+      "NAME": "The Sandbox",
+      "SYMBOL": "SAND",
+      "MARKET_CAP": 6096469232
+    },
+    {
+      "RANK": 32,
+      "NAME": "VeChain",
+      "SYMBOL": "VET",
+      "MARKET_CAP": 6063383125
+    },
+    {
+      "RANK": 33,
+      "NAME": "FTX Token",
+      "SYMBOL": "FTT",
+      "MARKET_CAP": 5869138450
+    },
+    {
+      "RANK": 34,
+      "NAME": "Hedera",
+      "SYMBOL": "HBAR",
+      "MARKET_CAP": 5730969936
+    },
+    {
+      "RANK": 35,
+      "NAME": "Fantom",
+      "SYMBOL": "FTM",
+      "MARKET_CAP": 5721015142
+    },
+    {
+      "RANK": 36,
+      "NAME": "THETA",
+      "SYMBOL": "THETA",
+      "MARKET_CAP": 5244666867
+    },
+    {
+      "RANK": 37,
+      "NAME": "Bitcoin BEP2",
+      "SYMBOL": "BTCB",
+      "MARKET_CAP": 5238275955
+    },
+    {
+      "RANK": 38,
+      "NAME": "Filecoin",
+      "SYMBOL": "FIL",
+      "MARKET_CAP": 5115221984
+    },
+    {
+      "RANK": 39,
+      "NAME": "Internet Computer",
+      "SYMBOL": "ICP",
+      "MARKET_CAP": 4994016853
+    },
+    {
+      "RANK": 40,
+      "NAME": "Elrond",
+      "SYMBOL": "EGLD",
+      "MARKET_CAP": 4977622135
+    },
+    {
+      "RANK": 41,
+      "NAME": "Ethereum Classic",
+      "SYMBOL": "ETC",
+      "MARKET_CAP": 4919251508
+    },
+    {
+      "RANK": 42,
+      "NAME": "Tezos",
+      "SYMBOL": "XTZ",
+      "MARKET_CAP": 4241363680
+    },
+    {
+      "RANK": 43,
+      "NAME": "Helium",
+      "SYMBOL": "HNT",
+      "MARKET_CAP": 3930841062
+    },
+    {
+      "RANK": 44,
+      "NAME": "IOTA",
+      "SYMBOL": "MIOTA",
+      "MARKET_CAP": 3741985766
+    },
+    {
+      "RANK": 45,
+      "NAME": "Monero",
+      "SYMBOL": "XMR",
+      "MARKET_CAP": 3740084326
+    },
+    {
+      "RANK": 46,
+      "NAME": "Aave",
+      "SYMBOL": "AAVE",
+      "MARKET_CAP": 3582882559
+    },
+    {
+      "RANK": 47,
+      "NAME": "Gala",
+      "SYMBOL": "GALA",
+      "MARKET_CAP": 3430671821
+    },
+    {
+      "RANK": 48,
+      "NAME": "The Graph",
+      "SYMBOL": "GRT",
+      "MARKET_CAP": 3419734846
+    },
+    {
+      "RANK": 49,
+      "NAME": "Klaytn",
+      "SYMBOL": "KLAY",
+      "MARKET_CAP": 3390932618
+    },
+    {
+      "RANK": 50,
+      "NAME": "UNUS SED LEO",
+      "SYMBOL": "LEO",
+      "MARKET_CAP": 3363659138
+    }
+  ]

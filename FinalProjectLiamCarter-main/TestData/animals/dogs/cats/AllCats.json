@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "Buddy",
+    "Color": "white",
+    "Age": 4,
+    "Wheight": 8.3
+  },
+  {
+    "Name": "Zeus",
+    "Color": "black",
+    "Age": 8,
+    "Wheight": 7.9
+  },
+  {
+    "Name": "Leo",
+    "Color": "brown",
+    "Age": 7,
+    "Wheight": 10
+  }
+]

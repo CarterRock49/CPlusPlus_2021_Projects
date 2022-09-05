@@ -1,0 +1,21 @@
+﻿  Main.cpp
+C:\Users\Jeff\Desktop\C++\FinalProjectLiamCarter-main\Main.cpp(47,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Jeff\Desktop\C++\FinalProjectLiamCarter-main\Main.cpp(73,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Jeff\Desktop\C++\FinalProjectLiamCarter-main\Main.cpp(136,53): warning C4244: 'argument': conversion from 'uintmax_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\Jeff\Desktop\C++\FinalProjectLiamCarter-main\Main.cpp(122): message : while compiling class template member function 'T Storage<T>::GetCurrentDir(std::string)'
+          with
+          [
+              T=files
+          ]
+C:\Users\Jeff\Desktop\C++\FinalProjectLiamCarter-main\Main.cpp(368): message : see reference to function template instantiation 'T Storage<T>::GetCurrentDir(std::string)' being compiled
+          with
+          [
+              T=files
+          ]
+C:\Users\Jeff\Desktop\C++\FinalProjectLiamCarter-main\Main.cpp(184): message : see reference to class template instantiation 'Storage<files>' being compiled
+C:\Users\Jeff\Desktop\C++\FinalProjectLiamCarter-main\Main.cpp(124,8): warning C4101: 'isFile': unreferenced local variable
+  FinalProjectG04.vcxproj -> C:\Users\Jeff\Desktop\C++\FinalProjectLiamCarter-main\x64\Debug\FinalProjectG04.exe
