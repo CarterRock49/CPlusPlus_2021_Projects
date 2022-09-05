@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Users\Jeff\Desktop\C++\simplehttpserver-CarterRock49-main\main.cpp(115,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Generating code
+  4 of 913 functions ( 0.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    3 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  HttpServer.vcxproj -> C:\Users\Jeff\Desktop\C++\simplehttpserver-CarterRock49-main\x64\Release\HttpServer.exe

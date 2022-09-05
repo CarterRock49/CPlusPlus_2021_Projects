@@ -1,0 +1,11 @@
+GET /todos?key1=value1&key2=value2 HTTP/1.1
+Accept: */*
+Content-Type: application/json
+User-Agent: PostmanRuntime/7.29.0
+Postman-Token: d2de007e-bd6d-418c-8c5b-c23c2b04acdf
+Host: localhost:27015
+Accept-Encoding: gzip, deflate, br
+Connection: keep-alive
+Content-Length: 42
+
+{"Message": "This is in the body"}
