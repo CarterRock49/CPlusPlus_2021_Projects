@@ -1,0 +1,70 @@
+[
+  {
+    "Type": "Pop",
+    "Name": "Ghost",
+    "Artist": "Justin Bieber",
+    "Origin": "United States",
+    "Rank": 12,
+    "DateOfRanking": "02/12/2022",
+    "Location": "https://pop.music.example.com"
+  },
+  {
+    "Type": "Chamber",
+    "Name": "String Quartet No. 1",
+    "Artist": "Tchaikovsky",
+    "Origin": "Russia",
+    "Key": "G minor",
+    "Instruments": {
+      "1": "Violin",
+      "2": "Cello",
+      "3": "Flute",
+      "4": "Bassoon"
+    },
+    "Location": "https://chamber.music.example.com"
+  },
+  {
+    "Type": "Orchestral",
+    "Name": "Symphony No.5",
+    "Artist": "Beethoven",
+    "Origin": "Germany",
+    "Key": "C minor",
+    "Instruments": [
+      "Violin",
+      "Viola",
+      "Timpani",
+      "Snare drum",
+      "Cymbals",
+      "Xylophone",
+      "French horn",
+      "Piano",
+      "Harp"
+    ],
+    "Location": "https://orchestral.music.example.com"
+  },
+  {
+    "Type": "Rock",
+    "Name": "School's Out",
+    "Artist": "Alice Cooper",
+    "Origin": "United States",
+    "Recommended Volume": "Loud",
+    "Expletives": 0,
+    "Guitars Only": true,
+    "Location": "https://rock.music.example.com"
+  },
+  {
+    "Type": "Electronic",
+    "Name": "Prologue",
+    "Artist": "Kraftwerk",
+    "Origin": "Germany",
+    "BeatsPerMin": 141,
+    "Location": "https://electronic.music.example.com"
+  },
+  {
+    "Type": "Jazz",
+    "Name": "So What",
+    "Artist": "Miles Davis",
+    "Origin": "United States",
+    "Improvisation": "Some",
+    "Location": "https://music.example.com"
+  }
+]

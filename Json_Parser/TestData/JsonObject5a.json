@@ -1,0 +1,11 @@
+{
+  "Rank": 1,
+  "Active":false,
+  "Name": "Bitcoin",
+  "Symbol": "BTC",
+  "Market Cap": [
+    1000,
+    0,
+    -12345.67890e-789
+  ]
+}

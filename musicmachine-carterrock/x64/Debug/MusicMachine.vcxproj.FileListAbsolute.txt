@@ -1,0 +1,2 @@
+C:\Users\Bubbl\source\repos\musicmachine-carterrock\x64\Debug\MusicMachine.exe
+C:\Users\Jeff\Desktop\C++\musicmachine-carterrock\x64\Debug\MusicMachine.exe
