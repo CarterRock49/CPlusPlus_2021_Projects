@@ -1,0 +1,17 @@
+﻿  main.cpp
+C:\Users\Jeff\Desktop\C++\unsplashapplinkedlist-CarterRock49-main\main.cpp(221,1): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\Jeff\Desktop\C++\unsplashapplinkedlist-CarterRock49-main\main.cpp(253,1): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+  Generating code
+  6 of 1470 functions ( 0.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    4 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  UnsplashAppLinkedList.vcxproj -> C:\Users\Jeff\Desktop\C++\unsplashapplinkedlist-CarterRock49-main\x64\Release\UnsplashAppLinkedList.exe

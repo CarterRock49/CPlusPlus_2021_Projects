@@ -1,0 +1,24 @@
+﻿  main.cpp
+C:\Users\Jeff\Desktop\C++\unsplashapplinkedlist-CarterRock49-main\main.cpp(218,1): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\Jeff\Desktop\C++\unsplashapplinkedlist-CarterRock49-main\main.cpp(250,1): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\Jeff\Desktop\C++\unsplashapplinkedlist-CarterRock49-main\main.cpp(168,1): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\Jeff\Desktop\C++\unsplashapplinkedlist-CarterRock49-main\main.cpp(316): message : see reference to function template instantiation 'void UnsplashClient::Sort<CompareId>(int,bool)' being compiled
+C:\Users\Jeff\Desktop\C++\unsplashapplinkedlist-CarterRock49-main\main.cpp(198,1): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\Jeff\Desktop\C++\unsplashapplinkedlist-CarterRock49-main\main.cpp(159,22): warning C4101: 'comdesc': unreferenced local variable
+  UnsplashAppLinkedList.vcxproj -> C:\Users\Jeff\Desktop\C++\unsplashapplinkedlist-CarterRock49-main\x64\Debug\UnsplashAppLinkedList.exe
